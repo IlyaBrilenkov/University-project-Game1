@@ -1,6 +1,6 @@
 University project game.
 
-
+|<img src="https://github.com/IlyaBrilenkov/University-project-Game1/blob/main/Assets/university%20game%20scrinshot.png" height="710" width="1125">|
 
 There are two main types of enemies - ground enemies and flying enemies. Ground enemies move in fixed range, but can detect the character and start moving towards the character changing the range. Ground enemies also strike ice balls in the direction of the character, if the character is in the detection range. Ground enemies can detect the character only when moving towards the character and when the character is on the ground (not jumping). So, it’s much easier to jump over the ground enemy when it moves away from the character. If an enemy is near a canyon or near a collectable item, it might be useful to attract the enemy’s attention to change its range.  
 
