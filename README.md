@@ -1,4 +1,4 @@
-University project game.
+University project. Game.
 
 |<img src="https://github.com/IlyaBrilenkov/University-project-Game1/blob/main/Assets/university%20game%20scrinshot.png" height="710" width="1125">|
 
